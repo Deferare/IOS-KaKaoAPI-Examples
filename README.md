@@ -1,2 +1,2 @@
 # IOS-KaKaoAPI-Examples
-Emplement kakao login in the IOS environment.
+Using a variey of kakao api in the ios environment.
